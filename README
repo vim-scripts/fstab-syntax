@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=343
+
+fstab syntax highlighting
+Latest version: http://ld.yi.org/vim/fstab.vim
+
+Features:
+- You can place let fstab_unknown_fs_errors = 0 in your .vimrc to instruct the highlighter to not show unknown filesystems as errors
